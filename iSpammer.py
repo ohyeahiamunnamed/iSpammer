@@ -1,5 +1,3 @@
-# Madarchod Agar code copy karne aye ho to Tumse bada Madarchod koi nahi hai
-
 import random
 from requests import get
 import argparse
